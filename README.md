@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ziebamikolaj
+- 👀 I’m interested in Web aplications.
+- 🌱 I’m currently learning Node.js
+- 📫 How to reach me ziebamikolaj03@gmail.com
