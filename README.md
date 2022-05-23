@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ziebamikolaj
-- 👀 I’m interested in Web aplications.
+- 👀 I’m interested in Web aplications & more.
 - 🌱 I’m currently learning Python and JS
 - 📫 How to reach me ziebamikolaj03@gmail.com
