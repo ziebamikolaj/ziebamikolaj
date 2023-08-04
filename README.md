@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ziebamikolaj
 - 👀 I’m interested in AI.
-- 🌱 I’m currently learning C# and ASP.NET
+- 🌱 I’m currently learning ASP.NET and VBA
 - 📫 ziebamikolaj03@gmail.com
